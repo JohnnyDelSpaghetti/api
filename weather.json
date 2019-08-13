@@ -1,6 +1,17 @@
 {
-   "temperatur":32,
-   "cloudy":false,
-   "sunny":true,
-   "wind":"huricane"
+    "type": "bundle",
+    "id": "bundle--0aa1e04d-75e0-5b9c-b861-ee1cd6e0972e",
+    "spec_version": "2.0",
+    "objects": [
+        {
+            "type": "identity",
+            "id": "identity--0c90421a-647f-4e1b-ae2e-a007fec01ae8",
+            "created": "2019-07-11T12:16:32.672Z",
+            "modified": "2019-07-11T12:16:32.672Z",
+            "name": "FUB",
+            "description": "The 'Führungsunterstützungsbasis' of the swiss military.",
+            "identity_class": "class",
+            "x_opencti_identity_type": "sector"
+        }
+    ]
 }
