@@ -128,4 +128,6 @@ var urls = [
 
 urls.forEach(url => o.objects.push(createIndicator("RUAG espionage case C&C URL", url, true)))
 
+o.objects.filter(obj => obj.type == "report")[0].object_refs = o.objects.filter(obj => obj.type != "report" && obj.type != "identity").map(obj => obj.id);
+
 console.log(JSON.stringify(o));
