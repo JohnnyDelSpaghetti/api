@@ -1,0 +1,14 @@
+bundle
+x-mitre-tactic
+identity
+vulnerability
+indicator
+relationship
+campain
+report
+course-of-action
+##############
+turla family / Uroburos
+ad
+melani
+epic turla tracdig
