@@ -60,7 +60,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "srsvc.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '22481e4055d438176e47f1b1164a6bad' ]",
@@ -72,7 +74,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "srsvc.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '68b2695f59d5fb3a94120e996b8fafea' ]",
@@ -84,7 +88,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "ximarsh.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '3881a38adb90821366e3d6480e6bc496' ]",
@@ -96,7 +102,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msximl.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '1d82c90bcb9863949897e3235b20fb8a' ]",
@@ -108,7 +116,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msximl.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '1a73e08be91bf6bb0edd43008f8338f3' ]",
@@ -120,7 +130,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "ximarsh.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '2cfcacd99ab2edcfaf8853a11f5e79d5' ]",
@@ -132,7 +144,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msximl.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '6b34bf9100c1264faeeb4cb686f7dd41' ]",
@@ -144,7 +158,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msimghlp.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '9f040c8a4db21bfa329b91ec2c5ff299' ]",
@@ -156,7 +172,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msimghlp.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'a50d8b078869522f68968b61eeb4e61d' ]",
@@ -168,7 +186,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msimghlp.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'b849c860dff468cc52ed045aea429afb' ]",
@@ -180,7 +200,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "ximarsh.dll",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'ba860e20c766400eb4fab7f16b6099f6' ]",
@@ -192,7 +214,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "msssetup.exe",
       "description": "",
       "pattern": "[ file:hashes.MD5 = '2372e90fc7b4d1ab57c40a2eed9dd050' ]",
@@ -222,7 +246,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'airmax2015.leadingineurope[.]eu/wp-content/gallery/' ]",
@@ -234,7 +260,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'bestattung-eckl[.]at/typo3temp/wizard.php' ]",
@@ -246,7 +274,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'buendnis-depression[.]at/typo3temp/ajaxify-rss.php' ]",
@@ -258,7 +288,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'deutschland-feuerwerk[.]de/fileadmin/dekoservice/rosefeed.php' ]",
@@ -270,7 +302,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'digitallaut[.]at/typo3temp/viewpage.php' ]",
@@ -282,7 +316,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'florida4lottery[.]com/wp-content/languages/index.php' ]",
@@ -294,7 +330,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'porkandmeadmag[.]com/wp-content/gallery/' ]",
@@ -306,7 +344,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'salenames[.]cn/wp-includes/pomo/js/' ]",
@@ -318,7 +358,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'shdv[.]de/fileadmin/shdv/Pressemappe/presserss.php' ]",
@@ -330,7 +372,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'smartrip-israel[.]com/wp-content/gallery/about.php' ]",
@@ -342,7 +386,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'woo.dev.ideefix[.]net/wp-content/info/' ]",
@@ -354,7 +400,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'www.asilocavalsassi[.]it/media/index.php' ]",
@@ -366,7 +414,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'www.ljudochbild[.]se/wp-includes/category/' ]",
@@ -378,7 +428,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'www.millhavenplace.co[.]uk/wp-content/gallery/index.php' ]",
@@ -390,7 +442,9 @@
       "created_by_ref": "identity--cfc-2",
       "created": "2016-05-23T00:00:00.000Z",
       "modified": "2016-05-23T00:00:00.000Z",
-      "labels": [],
+      "labels": [
+        "malicious-activity"
+      ],
       "name": "RUAG espionage case C&C URL",
       "description": "",
       "pattern": "[ file:hashes.MD5 = 'www[.]jagdhornschule[.]ch/typo3temp/rss-feed.php' ]",

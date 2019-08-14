@@ -12,3 +12,7 @@ turla family / Uroburos
 ad
 melani
 epic turla tracdig
+##############
+https://raw.githubusercontent.com/mitre/cti/master/enterprise-attack/enterprise-attack.json
+https://github.com/OpenCTI-Platform/datasets/blob/master/data/sectors.json
+https://github.com/oasis-open/cti-stix2-json-schemas/tree/master/examples

@@ -18,7 +18,7 @@ function createIndicator(name, value, hash) {
         "created_by_ref": creator,
         "created": date,
         "modified": date,
-        "labels": [],
+        "labels": ["malicious-activity"],
         "name": name,
         "description": "",
         "pattern": (hash) ? "[ file:hashes.MD5 = '" + value + "' ]" : "[ url:value = '" + value + "' ]",
