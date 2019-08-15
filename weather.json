@@ -1,16 +1,16 @@
 {
   "type": "bundle",
-  "id": "bundle--cfc-102123125",
+  "id": "bundle--cfc-102123127",
   "spec_version": "2.0",
   "objects": [
     {
       "type": "relationship",
-      "id": "relationship--cfc-102123125",
-      "created": "2016-05-23T00:00:00.000Z",
-      "modified": "2016-05-23T00:00:00.000Z",
+      "id": "relationship--cfc-102123127",
+      "created": "2019-08-10T00:00:00.000Z",
+      "modified": "2016-08-10T00:00:00.000Z",
       "relationship_type": "localization",
-      "source_ref": "5c064a1a-5760-4723-a5bb-af04a8605d58",
-      "target_ref": "6531877f-2426-4a3a-95e4-d7e39656a1a5"
+      "target_ref": "5c064a1a-5760-4723-a5bb-af04a8605d58",
+      "source_ref": "6531877f-2426-4a3a-95e4-d7e39656a1a5"
     }
   ]
 }
