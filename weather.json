@@ -1,36 +1,16 @@
 {
-    "type": "bundle",
-    "id": "bundle--46607860-fffb-4cf7-b417-73a567c195a9",
-    "spec_version": "2.0",
-    "objects": [
-        {
-            "modified": "2018-10-17T00:14:20.652Z",
-            "type": "identity",
-            "identity_class": "organization",
-            "object_marking_refs": [],
-            "name": "Some Crop3",
-            "id": "identity--c78cb6e4-0a4b-4611-8297-d1b8b55e40b5",
-            "created": "2018-10-17T00:14:20.652Z"
-        },
-        {
-            "created_by_ref": "identity--c78cb6e4-0a4b-4611-8297-d1b8b55e40b5",
-            "description": "Some Backdoor2. Citation: FireEye APT37 Feb 2018",
-            "id": "malware--4319a672-72ed-4a89-a57c-7f689712ecf8",
-            "external_references": [
-                {
-                    "external_id": "S0217",
-                    "source_name": "awwwards-attack",
-                    "url": "https://awwwards.com"
-                }
-            ],
-            "modified": "2018-10-17T00:14:20.652Z",
-            "type": "malware",
-            "created": "2018-04-18T17:59:24.739Z",
-            "object_marking_refs": [],
-            "name": "SU Backdoor2",
-            "labels": [
-                "malware"
-            ]
-        }
-    ]
+  "type": "bundle",
+  "id": "bundle--cfc-102123123",
+  "spec_version": "2.0",
+  "objects": [
+    {
+      "type": "relationship",
+      "id": "relationship--cfc-102123123",
+      "created": "2016-05-23T00:00:00.000Z",
+      "modified": "2016-05-23T00:00:00.000Z",
+      "relationship_type": "attributed-to",
+      "source_ref": "5c064a1a-5760-4723-a5bb-af04a8605d58",
+      "target_ref": "6531877f-2426-4a3a-95e4-d7e39656a1a5"
+    }
+  ]
 }
