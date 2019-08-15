@@ -1,67 +1,23 @@
 {
   "type": "bundle",
-  "id": "bundle--cfc-102fdfv123129",
+  "id": "bundle--cfc-102fdfv1231sd29",
   "spec_version": "2.0",
   "objects": [
     {
-      "id": "report--cfc-102fdfv123129",
-      "type": "report",
-      "name": "Belgium has been hacked bruh.",
-      "labels": [
-        "report"
-      ],
-      "description": "Hackers hacked belgiums watersupplysystem to get a good laugh!",
-      "published": "2019-08-10T00:00:00.000Z",
-      "created": "2019-08-10T00:00:00.000Z",
-      "modified": "2019-08-10T00:00:00.000Z",
-      "x_opencti_report_class": "Threat Report",
-      "x_opencti_object_status": 0,
-      "x_opencti_source_confidence_level": 3,
-      "x_opencti_graph_data": "eyJub2RlcyI6eyI4ODAxNDJlMy04NDAwLTQyM2ItYTJmZi1mYjhjM2VmMGVlYzEiOnsicG9zaXRpb24iOnsieCI6MjcxLCJ5IjoxNDJ9fSwiMWU3NjgxYTctZDAzYS00OTFkLTllNjktOGI3MWMyZGRmMDAyIjp7InBvc2l0aW9uIjp7IngiOjEzMDcsInkiOjkzfX0sIjhkYmNlNzBlLTIyNTYtNDM5Zi1hMmJkLWYxZTM3NzhlMGQzMyI6eyJwb3NpdGlvbiI6eyJ4Ijo4MjAsInkiOjI2OH19LCJiOGJmZjFkYy0xMzQ0LTRhYWYtYjczZC05OTNkNDQ3MDgyYTMiOnsicG9zaXRpb24iOnsieCI6MTI5MywieSI6MzE2fX19LCJ6b29tIjoxMDAsIm9mZnNldFgiOjAsIm9mZnNldFkiOjB9",
-      "object_refs": [
-        "identity--cfc-102fdfv123129",
-        "relationship--cfc-102fdfv123129",
-        "organization--cfc-102fdfv123129"
-      ]
-    },
-    {
-      "id": "organization--cfc-102fdfv123129",
-      "type": "identity",
-      "name": "Brussel",
-      "identity_class": "organization",
-      "labels": [
-        "identity"
-      ],
-      "created": "2019-08-10T00:00:00.000Z",
-      "modified": "2019-08-10T00:00:00.000Z",
-      "x_opencti_identity_type": "organization"
-    },
-    {
-      "id": "relationship--cfc-102fdfv123129",
+      "id": "relationship--cfc-102fdfv1231sd29",
       "type": "relationship",
       "relationship_type": "localization",
-      "source_ref": "organization--cfc-102fdfv123129",
-      "target_ref": "identity--cfc-102fdfv123129",
-      "created": "2019-08-10T00:00:00.000Z",
-      "modified": "2019-08-10T00:00:00.000Z",
-      "x_opencti_first_seen": "2019-08-10T00:00:00.000Z",
-      "x_opencti_last_seen": "2019-08-10T00:00:00.000Z",
+      "source_ref": "identity--22794bc3-8a9d-4b9c-b3da-116a4ae6b4e8",
+      "target_ref": "identity--3bb181ee-681e-404d-8d6b-92d36391e076",
+      "x_opencti_source_ref": "5c064a1a-5760-4723-a5bb-af04a8605d58",
+      "x_opencti_target_ref": "6531877f-2426-4a3a-95e4-d7e39656a1a5",
+      "created": "2019-08-12T00:00:00.000Z",
+      "modified": "2019-08-12T00:00:00.000Z",
+      "x_opencti_first_seen": "2019-08-12T00:00:00.000Z",
+      "x_opencti_last_seen": "2019-08-12T00:00:00.000Z",
       "x_opencti_weight": 5,
       "x_opencti_role_played": "Unknown",
       "x_opencti_score": 50
-    },
-    {
-      "id": "identity--cfc-102fdfv123129",
-      "type": "identity",
-      "name": "Lichtenstein",
-      "identity_class": "organization",
-      "labels": [
-        "identity"
-      ],
-      "description": "FR / France",
-      "created": "2019-08-10T00:00:00.000Z",
-      "modified": "2019-08-10T00:00:00.000Z",
-      "x_opencti_identity_type": "country"
     }
   ]
 }
