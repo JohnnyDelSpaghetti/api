@@ -1,23 +1,22 @@
 {
   "type": "bundle",
-  "id": "bundle--cfc-102fdfv1231sd29",
+  "id": "bundle--cfc-10ujfjrf2",
   "spec_version": "2.0",
   "objects": [
     {
-      "id": "relationship--cfc-102fdfv1231sd29",
-      "type": "relationship",
-      "relationship_type": "localization",
-      "source_ref": "identity--22794bc3-8a9d-4b9c-b3da-116a4ae6b4e8",
-      "target_ref": "identity--3bb181ee-681e-404d-8d6b-92d36391e076",
-      "x_opencti_source_ref": "5c064a1a-5760-4723-a5bb-af04a8605d58",
-      "x_opencti_target_ref": "6531877f-2426-4a3a-95e4-d7e39656a1a5",
-      "created": "2019-08-12T00:00:00.000Z",
-      "modified": "2019-08-12T00:00:00.000Z",
-      "x_opencti_first_seen": "2019-08-12T00:00:00.000Z",
-      "x_opencti_last_seen": "2019-08-12T00:00:00.000Z",
-      "x_opencti_weight": 5,
-      "x_opencti_role_played": "Unknown",
-      "x_opencti_score": 50
+      "type": "indicator",
+      "id": "indicator--cfc-10ujfjrf2",
+      "created_by_ref": "identity--cfc-101",
+      "created": "2019-08-10T00:00:00.000Z",
+      "modified": "2019-08-10T00:00:00.000Z",
+      "labels": [
+        "malicious-activity"
+      ],
+      "name": "msximl.dll",
+      "description": "Maliciousisus Hasherino",
+      "name":"c913d7451598acf4daa2400071ccf96a",
+      "valid_from": "2016-05-23T00:00:00.000Z",
+      "x_opencti_identity_type": "file-md5"
     }
   ]
 }
